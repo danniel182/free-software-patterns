@@ -1,0 +1,27 @@
+Issues #5
+
+Tradução "ChatWithMaintainers.markdown"
+
+Bate-papo com os Mantenedores
+
+Intenção: Aprenda sobre o contexto histórico e político do seu projeto através de discussões com as pessoas que mantêm o sistema.
+
+Problema
+
+Como você obtém uma boa perspectiva sobre o contexto histórico e político do sistema legado que está realizando a reengenharia?
+
+Esse problema é difícil porque:
+
+A documentação, se presente, geralmente registra decisões sobre a solução, não sobre os fatores que influenciaram essa solução. Consequentemente, os eventos importantes na história do sistema (isto é, seu contexto histórico) são raramente documentados.
+O sistema é valioso (caso contrário, eles não se incomodariam em reformulá-lo), mas o gerenciamento perdeu o controle (caso contrário, eles não precisariam realizar a reengenharia do sistema). Pelo menos algumas das pessoas relacionadas a questões relativas ao sistema de software estão confusas, assim o contexto político de um sistema legado é problemático por natureza.
+Pessoas que trabalham com o sistema podem enganar você. Às vezes, as pessoas irão enganá-lo deliberadamente, especialmente quando elas são responsáveis ​​pelas partes problemáticas do sistema ou quando desejam proteger seus trabalhos. Na maioria das vezes, eles o enganarão por ignorância, especialmente quando os desenvolvedores-chefes estão trabalhando em outros projetos e os funcionários juniores são os únicos que restam para a manutenção do sistema.
+
+No entanto, resolver este problema é viável porque:
+
+Você pode conversar com a equipe de manutenção. Embora eles não saibam tudo sobre o contexto do sistema original, eles provavelmente sabem muito sobre como o sistema chegou ao seu estado atual.
+
+Solução
+
+Discuta com os mantenedores do sistema. Como pessoas técnicas que estiveram intimamente envolvidas com o sistema legado, eles estão bem cientes da história do sistema e das questões relacionadas às pessoas que influenciaram essa história.
+
+Para evitar informações enganosas, trate os mantenedores como "irmãos de armas". Tente encontrar uma espécie de barganha onde você facilite seu trabalho (mais recompensador, mais apreciado, - o que for mais provável para convencê-los) se eles gastarem algum tempo para explicar o que estão fazendo. Isso tem o benefício extra de ganhar o respeito que você precisa para as fases posteriores do seu projeto de reengenharia.
