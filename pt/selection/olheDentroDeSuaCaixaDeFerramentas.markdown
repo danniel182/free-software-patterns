@@ -1,4 +1,4 @@
-# Olhe dentro de sua caixa de ferramentas
+﻿# Olhe dentro de sua caixa de ferramentas
 
 **Intenção:** Selecione um projeto FLOSS para contribuir baseado em tecnologias que você já conheça ou usa em seu ambiente de trabalho.
 Por exemplo, se você tem uma boa experiência em programação com uma linguagem de programação específica, escolha um projeto escrito nessa linguagem para contribuir.
@@ -33,15 +33,12 @@ Por exemplo, adotar uma linguagem de programação interpretada para o desenvolv
 Procure por projetos que combinem com o seu critério para tecnologia aceitável.
 Tecnologias aceitáveis são aquelas que te são familiares, que são aprovadas por sua organização ou colegas de trabalho, ou que se integrem de forma agradável ao seu ambiente existente.
 
-Se seu critério inclui uma linguagem de programação específica você deve começar procurando por projetos em repositórios linguagem-específica. Por exemplo, a maiorias de projetos em Perl, Ruby e Python estão listados em [CPAN]
-(http://www.cpan.org/),
-[Rubygems](http://rubygems.org/) e [PyPI]
-(http://pypi.python.org/), suas respectivas comunidades de repositório.
+Se seu critério inclui uma linguagem de programação específica você deve começar procurando por projetos em repositórios linguagem-específica. Por exemplo, a maiorias de projetos em Perl, Ruby e Python estão listados em [CPAN](http://www.cpan.org/), [Rubygems](http://rubygems.org/) e [PyPI](http://pypi.python.org/), suas respectivas comunidades de repositório.
 
 Algums vezes seu critério não será a linguagem de programação, mas outras partes de uma arquitetura de aplicação, como o sistema da base de dados.
 Por exemplo, você quer verificar se o novo sistema de gerenciamento de conteúdo que você está avaliando suporta o sistema de base de dados relacional aprovado pela sua organização. 
 Você pode pesquisar projetos em [Freecode](http://freecode.com/) (antes Freshmeat), o qual é um catálogo do Linux, Unis e software de plataforma cruzada, a maioria deles de código aberto. Você pode filtrar a lista de projetos por linguagem de programação e por tags, que são atribuídas pelos usuários. Algumas tags se referem a tecnoligias específicas suportadas ou usadas pelo projeto, como o sistema de base de dados ou uma biblioteca de software específica.
-Um serviço similar é o [Ohloh]](http://www.ohloh.net/).
+Um serviço similar é o [Ohloh](http://www.ohloh.net/).
 Você pode utilizá-lo, por exemplo, para procurar por 
 [sistemas de gerenciamento de conteúdo escritos em PHP com suporte para bancos de dados MySQL](http://www.ohloh.net/tags/cms/php/mysql).
 
@@ -82,7 +79,7 @@ Esse é um padrão muito comum na prática.
 
 ## Padrões relacionados
 
-As vezes, familiaridade com o software é mais importante do que dominar linguagem de programação ou outras tecnologias. Nesse caso, você pode preferir por [Ande em um terreno familiar](link://selection/WalkOnFamiliarGround). 
+As vezes, familiaridade com o software é mais importante do que dominar linguagem de programação ou outras tecnologias. Nesse caso, você pode preferir por [Andar em um terreno familiar](link://selection/WalkOnFamiliarGround). 
 
 Se, por outro lado, funcionalidade é mais importante do que familiaridade, você sempre pode [Explorar um Admirável Mundo Novo](link://selection/ExploreABraveNewWorld).
 
