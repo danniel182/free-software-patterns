@@ -39,8 +39,7 @@ Algums vezes seu critério não será a linguagem de programação, mas outras p
 Por exemplo, você quer verificar se o novo sistema de gerenciamento de conteúdo que você está avaliando suporta o sistema de base de dados relacional aprovado pela sua organização. 
 Você pode pesquisar projetos em [Freecode](http://freecode.com/) (antes Freshmeat), o qual é um catálogo do Linux, Unis e software de plataforma cruzada, a maioria deles de código aberto. Você pode filtrar a lista de projetos por linguagem de programação e por tags, que são atribuídas pelos usuários. Algumas tags se referem a tecnoligias específicas suportadas ou usadas pelo projeto, como o sistema de base de dados ou uma biblioteca de software específica.
 Um serviço similar é o [Ohloh](http://www.ohloh.net/).
-Você pode utilizá-lo, por exemplo, para procurar por 
-[sistemas de gerenciamento de conteúdo escritos em PHP com suporte para bancos de dados MySQL](http://www.ohloh.net/tags/cms/php/mysql).
+Você pode utilizá-lo, por exemplo, para procurar por [istemas de gerenciamento de conteúdo escritos em PHP com suporte para bancos de dados MySQL](http://www.ohloh.net/tags/cms/php/mysql).
 
 ## Trade-Offs
 
