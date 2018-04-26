@@ -69,7 +69,7 @@ Você também deve enontrar e consertar bugs mais facilmente, ajudando na docume
 
 ## Usos conhecidos
 
-De volta a 2006, nós começamos a trabalhar em um projeto de pesquisa de transformação de modelo chamado TEMA. Nesse tempo, a maioria ddas tecnologias de software para transformação de modelo era em java, mas desenvolvedores envolvidos no projeto preferiam Ruby. Ele procurou por projetos de transormação de modelo em Ruby e achou [RMOF] (http://rubyforge.org/projects/rmof/). O projeto acabou contribuindo uma quantidade significativa de código ao projeto RMOF.
+De volta a 2006, nós começamos a trabalhar em um projeto de pesquisa de transformação de modelo chamado TEMA. Nesse tempo, a maioria ddas tecnologias de software para transformação de modelo era em java, mas desenvolvedores envolvidos no projeto preferiam Ruby. Ele procurou por projetos de transormação de modelo em Ruby e achou [RMOF](http://rubyforge.org/projects/rmof/). O projeto acabou contribuindo uma quantidade significativa de código ao projeto RMOF.
 
 Um dos autores estava provurando por um editor de texto estensível que suportasse seu trabalho diário. Além disso, ele não queria gastar muito tempo aprendendo como escrever novas extenssões -- o editos deveria dar suporte ao trabalho, não para evitar que esse fosse feito. Vim e Emacs, editores de texto tradicionais, não eram boas opções, porque Vim usa sua própria linguagem de script, e Emacs usa uma variante do Lisp, o qual o autor não está familiarizado. O autor acabou escolhendo um editor escrito em Python (com extensões também escritas nessa linguagem) e começou a contribuir em extensões existentes que proviam a maoria das características que ele necessitava para suportar seu fluxo de trabalho.
 
