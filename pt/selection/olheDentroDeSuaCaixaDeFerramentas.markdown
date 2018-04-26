@@ -1,90 +1,89 @@
-ï»¿# Olhe dentro de sua caixa de ferramentas
+# Olhe dentro de sua caixa de ferramentas
 
-**IntenÃ§Ã£o:** Selecione um projeto FLOSS para contribuir baseado em tecnologias que vocÃª jÃ¡ conheÃ§a ou usa em seu ambiente de trabalho.
-Por exemplo, se vocÃª tem uma boa experiÃªncia em programaÃ§Ã£o com uma linguagem de programaÃ§Ã£o especÃ­fica, escolha um projeto escrito nessa linguagem para contribuir.
+**Intenção:** Selecione um projeto FLOSS para contribuir baseado em tecnologias que você já conheça ou usa em seu ambiente de trabalho.
+Por exemplo, se você tem uma boa experiência em programação com uma linguagem de programação específica, escolha um projeto escrito nessa linguagem para contribuir.
 
-## MotivaÃ§Ã£o
+## Motivação
 
-VocÃª estÃ¡ disposto a contribuir em um projeto FLOSS sem ter que aprender uma nova liguagem de programaÃ§Ã£o ou ter que introduzir uma tecnologia desconhecida em seu ambiente de trabalho.
-Possa ser o caso que vocÃª e seu time sÃ£o bem produtivos com certas tecnologias como Java e MySQL.
-Ou vocÃª estÃ¡ trabalhando com outros desenvolvedores em projetos existentes e todos eles estÃ£o usando C#.
+Você está disposto a contribuir em um projeto FLOSS sem ter que aprender uma nova liguagem de programação ou ter que introduzir uma tecnologia desconhecida em seu ambiente de trabalho.
+Possa ser o caso que você e seu time são bem produtivos com certas tecnologias como Java e MySQL. Ou você está trabalhando com outros desenvolvedores em projetos existentes e todos eles estão usando C#.
 
 ## Problema
 
-Como vocÃª vai encontrar um projeto FLOOS para contribuir, dando uma ou mais restriÃ§Ãµes tecnolÃ³gicas?
+Como você vai encontrar um projeto FLOOS para contribuir, dando uma ou mais restrições tecnológicas?
 
-## ForÃ§as
+## Forças
 
-* _Auto-confianÃ§a_. Suas abilidades de programaÃ§Ã£o em certas tecnologias fazer vocÃª se sentir confiante para superar as barreiras iniciais e possivelmente realizar melhores contribuiÃ§Ãµes para o projeto.
+* _Auto-confiança_. Suas abilidades de programação em certas tecnologias fazem você se sentir confiante para superar as barreiras iniciais e possivelmente realizar melhores contribuições para o projeto.
 
-* _VocÃª estÃ¡ procurando um projeto a ser incorporado a uma soluÃ§Ã£o existente_.
-Por exemplo, vocÃª pode estar procurando por uma biblioteca para ser usada em uma aplicaÃ§Ã£o existente. Nesse caso, vocÃª precisa que a biblioteca esteja escrita na mesma linguagem de programaÃ§Ã£o da aplicaÃ§Ã£o.
+* _Você está procurando um projeto a ser incorporado a uma solução existente_.
+Por exemplo, você pode estar procurando por uma biblioteca para ser usada em uma aplicação existente. Nesse caso, você precisa que a biblioteca esteja escrita na mesma linguagem de programação da aplicação.
 
-* _VocÃª nÃ£o quer ou tem tempo para aprender coisas novas_.
-Sua compania tem que adicionar nova funcionalidade baseada em um projeto existente, mas nÃ£o dispÃµe do tempo necessÃ¡rio para se familiarizar com tecnologias e ferramentas novas e desconhecidas.
+* _Você não quer ou não tem tempo para aprender coisas novas_.
+Sua empresa tem que adicionar alguma nova funcionalidade baseada em um projeto existente, mas não dispõe do tempo necessário para se familiarizar com tecnologias e ferramentas novas e desconhecidas.
 
-* _Barreiras organizacionais_. Sua organizaÃ§Ã£o tem uma polÃ­tica estrita para aprovar qualquer tecnologia nova antes dessa ser introduzida, e vocÃª preferiria evitar o problema.
+* _Barreiras organizacionais_. Sua organização tem uma política estrita para aprovar qualquer tecnologia nova antes dessa ser introduzida, e você preferiria evitar o problema.
 
-* _A adoÃ§Ã£o de uma nova tecnologia pode impor custos proibitvos_.
-Por exemplo, adotar uma linguagem de programaÃ§Ã£o interpretada para o desenvolvimento de software incorporado exigirÃ¡ a adiÃ§Ã£o de capacidade de armazenamento extra nos dispositivos, para realizar a instalaÃ§Ã£o do interpretador da liguagem.
+* _A adoção de uma nova tecnologia pode impor custos proibitivos_.
+Por exemplo, adotar uma linguagem de programação interpretada para o desenvolvimento de software incorporado exigirá a adição de capacidade de armazenamento extra nos dispositivos para realizar a instalação do interpretador da liguagem.
 
-## SoluÃ§Ã£o
+## Solução
 
-Procure por projetos que combinem com o seu critÃ©rio para tecnologia aceitÃ¡vel.
-Tecnologias aceitÃ¡veis sÃ£o aquelas que te sÃ£o familiares, que sÃ£o aprovadas por sua organizaÃ§Ã£o ou colegas de trabalho, ou que se integrem de forma agradÃ¡vel ao seu ambiente existente.
+Procure por projetos que combinem com o seu critério para tecnologia aceitável.
+Tecnologias aceitáveis são aquelas que te são familiares, que são aprovadas por sua organização ou colegas de trabalho, ou que se integrem de forma agradável ao seu ambiente existente.
 
-Se seu critÃ©rio inclui uma linguagem de programaÃ§Ã£o especÃ­fica vocÃª deve comeÃ§ar procurando por projetos em repositÃ³rios linguagem-especÃ­fica. Por exemplo, a maiorias de projetos em Perl, Ruby e Python estÃ£o listados em [CPAN](http://www.cpan.org/), [Rubygems](http://rubygems.org/) e [PyPI](http://pypi.python.org/), suas respectivas comunidades de repositÃ³rio.
+Se seu critério inclui uma linguagem de programação específica você deve começar procurando por projetos em repositórios linguagem-específica. Por exemplo, a maiorias de projetos em Perl, Ruby e Python estão listados em [CPAN](http://www.cpan.org/), [Rubygems](http://rubygems.org/) e [PyPI](http://pypi.python.org/), suas respectivas comunidades de repositório.
 
-Algums vezes seu critÃ©rio nÃ£o serÃ¡ a linguagem de programaÃ§Ã£o, mas outras partes de uma arquitetura de aplicaÃ§Ã£o, como o sistema da base de dados.
-Por exemplo, vocÃª quer verificar se o novo sistema de gerenciamento de conteÃºdo que vocÃª estÃ¡ avaliando suporta o sistema de base de dados relacional aprovado pela sua organizaÃ§Ã£o. 
-VocÃª pode pesquisar projetos em [Freecode](http://freecode.com/) (antes Freshmeat), o qual Ã© um catÃ¡logo do Linux, Unis e software de plataforma cruzada, a maioria deles de cÃ³digo aberto. VocÃª pode filtrar a lista de projetos por linguagem de programaÃ§Ã£o e por tags, que sÃ£o atribuÃ­das pelos usuÃ¡rios. Algumas tags se referem a tecnoligias especÃ­ficas suportadas ou usadas pelo projeto, como o sistema de base de dados ou uma biblioteca de software especÃ­fica.
-Um serviÃ§o similar Ã© o [Ohloh](http://www.ohloh.net/).
-VocÃª pode utilizÃ¡-lo, por exemplo, para procurar por [istemas de gerenciamento de conteÃºdo escritos em PHP com suporte para bancos de dados MySQL](http://www.ohloh.net/tags/cms/php/mysql).
+Algums vezes seu critério não será a linguagem de programação, mas outras partes de uma arquitetura de aplicação, como o sistema da base de dados.
+Por exemplo, você quer verificar se o novo sistema de gerenciamento de conteúdo que você está avaliando suporta o sistema de base de dados relacional aprovado pela sua organização. 
+Você pode pesquisar projetos em [Freecode](http://freecode.com/) (antes Freshmeat), o qual é um catálogo do Linux, Unix e software de plataforma cruzada, a maioria deles de código aberto. Você pode filtrar a lista de projetos por linguagem de programação e por tags, que são atribuídas pelos usuários. Algumas tags se referem a tecnoligias específicas suportadas ou usadas pelo projeto, como o sistema de base de dados ou uma biblioteca de software específica.
+Um serviço similar é o [Ohloh](http://www.ohloh.net/).
+Você pode utilizá-lo, por exemplo, para procurar por [sistemas de gerenciamento de conteúdo escritos em PHP com suporte para bancos de dados MySQL](http://www.ohloh.net/tags/cms/php/mysql).
 
 ## Trade-Offs
 
-**PrÃ³s:** 
+**Prós:** 
 
-* A curva de aprendizado para se engajar em um projeto Ã© possivelmente minimizada desde que vocÃª jÃ¡ lide com tecnologias e ferramentas conhecidas.
+* A curva de aprendizado para se engajar em um projeto é possivelmente minimizada desde que você já lide com tecnologias e ferramentas conhecidas.
 
-* Seu ambiente estÃ¡ provavelmente configurado para o projeto, ou pelo menos vocÃª sabe como instalar as dependÃªncias.
+* Seu ambiente está provavelmente configurado para o projeto, ou pelo menos você sabe como instalar as dependências.
 
-* VocÃª pode fazer contribuiÃ§Ãµes com melhor qualidade tÃ©cnica desde que vocÃª esteja familiarizado com as tecnologias.
+* Você pode fazer contribuições com melhor qualidade técnica desde que você esteja familiarizado com as tecnologias.
 
-* VocÃª pode ser bem sucedido, ganhando reputaÃ§Ã£o ou atÃ© mesmo um emprego (empresas buscando programadores com habilidades especÃ­ficas podem encontrar contrataÃ§Ãµes em potencial examinando cÃ³digos de softwares de cÃ³digo aberto).  
+* Você pode ser bem sucedido, ganhando reputação ou até mesmo um emprego (empresas buscando programadores com habilidades específicas podem encontrar contratações em potencial examinando códigos de softwares de código aberto).  
 
 **Contras:** 
 
-* Quando vocÃª limita sua escolha pelo critÃ©rio da tecnologia, vocÃª possivelmente exclui projetos que poderiam ser melhor encaixados em termos de funcionalidade.
+* Quando você limita sua escolha pelo critério da tecnologia, você possivelmente exclui projetos que poderiam ser melhor encaixados em termos de funcionalidade.
 
-* Se vocÃª sempreater a tecnologias conhecidas, vocÃª provavelmente tem problemas em aprender novas ferramentas que podem se mostrar mais Ãºteis em determinados contextos. Por exemplo, vocÃª pode acabar desenvolvendo aplicaÃ§Ãµes WEB em COBOL, embora existam importantes bibliotecas para programaÃ§Ã£o web que estÃ£o disponÃ­veis para outras linguagens.
+* Se você sempre ater a tecnologias conhecidas, você provavelmente tem problemas em aprender novas ferramentas que podem se mostrar mais úteis em determinados contextos. Por exemplo, você pode acabar desenvolvendo aplicações WEB em COBOL, embora existam importantes bibliotecas para programação web que estão disponíveis para outras linguagens.
 
-## LÃ³gica
+## Lógica
 
-Se vocÃª selecionou um projeto FLOSS que utiliza tecnologia aceitÃ¡vel, vocÃª pode se concentrar em outros problemas de projeto -- por exemplo, entender os recursos implementados ou se sentir confortÃ¡vel com o processo de desenvolvimento.
+Se você selecionou um projeto FLOSS que utiliza tecnologia aceitável, você pode se concentrar em outros problemas de projeto -- por exemplo, entender os recursos implementados ou se sentir confortável com o processo de desenvolvimento.
 
-AlÃ©m disso, vocÃª provavelmente vai prover melhores contribuiÃ§Ãµes tÃ©cnicas ao projeto. Quando codificando, vocÃª talvez aplique seu conhecimento sobre linguagens de programaÃ§Ã£o, armadilhas a serem evitadas, tecnologias e ferramentas suportadas, diretrizes que devem ser seguidas, etc.
-VocÃª tambÃ©m deve enontrar e consertar bugs mais facilmente, ajudando na documentaÃ§Ã£o tÃ©cnica, etc.
+Além disso, você provavelmente vai prover melhores contribuições técnicas ao projeto. Quando codificando, você talvez aplique seu conhecimento sobre linguagens de programação, armadilhas a serem evitadas, tecnologias e ferramentas suportadas, diretrizes que devem ser seguidas, etc.
+Você também deve enontrar e consertar bugs mais facilmente, ajudando na documentação técnica, etc.
 
 ## Usos conhecidos
 
-De volta a 2006, nÃ³s comeÃ§amos a trabalhar em um projeto de pesquisa de transformaÃ§Ã£o de modelo chamado TEMA. Nesse tempo, a maioria ddas tecnologias de software para transformaÃ§Ã£o de modelo era em java, mas desenvolvedores envolvidos no projeto preferiam Ruby. Ele procurou por projetos de transormaÃ§Ã£o de modelo em Ruby e achou [RMOF](http://rubyforge.org/projects/rmof/). O projeto acabou contribuindo uma quantidade significativa de cÃ³digo ao projeto RMOF.
+De volta a 2006, nós começamos a trabalhar em um projeto de pesquisa de transformação de modelo chamado TEMA. Nesse tempo, a maioria das tecnologias de software para transformação de modelo eram em java, mas desenvolvedores envolvidos no projeto preferiam Ruby. Ele procurou por projetos de transormação de modelo em Ruby e achou o [RMOF](http://rubyforge.org/projects/rmof/). O projeto acabou contribuindo uma quantidade significativa de código ao projeto RMOF.
 
-Um dos autores estava provurando por um editor de texto estensÃ­vel que suportasse seu trabalho diÃ¡rio. AlÃ©m disso, ele nÃ£o queria gastar muito tempo aprendendo como escrever novas extenssÃµes -- o editos deveria dar suporte ao trabalho, nÃ£o para evitar que esse fosse feito. Vim e Emacs, editores de texto tradicionais, nÃ£o eram boas opÃ§Ãµes, porque Vim usa sua prÃ³pria linguagem de script, e Emacs usa uma variante do Lisp, o qual o autor nÃ£o estÃ¡ familiarizado. O autor acabou escolhendo um editor escrito em Python (com extensÃµes tambÃ©m escritas nessa linguagem) e comeÃ§ou a contribuir em extensÃµes existentes que proviam a maoria das caracterÃ­sticas que ele necessitava para suportar seu fluxo de trabalho.
+Um dos autores estava provurando por um editor de texto estensível que suportasse seu trabalho diário. Além disso, ele não queria gastar muito tempo aprendendo como escrever novas extenssões -- o editor deveria dar suporte ao trabalho, não para evitar que esse fosse feito. Vim e Emacs, editores de texto tradicionais, não eram boas opções, porque Vim usa sua própria linguagem de script, e Emacs usa uma variante do Lisp, o qual o autor não está familiarizado. O autor acabou escolhendo um editor escrito em Python (com extensões também escritas nessa linguagem) e começou a contribuir em extensões existentes que proviam a maoria das características que ele necessitava para suportar seu fluxo de trabalho.
 
-As chances de que vocÃª e seus colegas de trabalho jÃ¡ tenham usado esse padrÃ£o muitas vezes Ã© alta.
-Por exemplo, pode ser uma framework web em PHP que vocÃª escolheu porque vocÃª domina programaÃ§Ã£o em PHP, ou uma biblioteca em java que vocÃª escolheu porque integra bem com outras bibliotecas que vocÃª esteja usando.
-Esse Ã© um padrÃ£o muito comum na prÃ¡tica.
+As chances de que você e seus colegas de trabalho já tenham usado esse padrão muitas vezes é alta.
+Por exemplo, pode ser uma framework web em PHP que você escolheu porque você domina programação em PHP, ou uma biblioteca em java que você escolheu porque integra bem com outras bibliotecas que você esteja usando.
+Esse é um padrão muito comum na prática.
 
-## PadrÃµes relacionados
+## Padrões relacionados
 
-As vezes, familiaridade com o software Ã© mais importante do que dominar linguagem de programaÃ§Ã£o ou outras tecnologias. Nesse caso, vocÃª pode preferir por [Andar em um terreno familiar](link://selection/WalkOnFamiliarGround). 
+As vezes, familiaridade com o software é mais importante do que dominar a linguagem de programação ou outras tecnologias. Nesse caso, você pode preferir por [Andar em um terreno familiar](link://selection/WalkOnFamiliarGround). 
 
-Se, por outro lado, funcionalidade Ã© mais importante do que familiaridade, vocÃª sempre pode [Explorar um AdmirÃ¡vel Mundo Novo](link://selection/ExploreABraveNewWorld).
+Se, por outro lado, funcionalidade é mais importante do que familiaridade, você sempre pode [Explorar um Admirável Mundo Novo](link://selection/ExploreABraveNewWorld).
 
-Contudo, vocÃª pode descobir que projetos que melhor combinam com as funcionalidades desejadas usam tecnologia que vocÃª nÃ£o estÃ¡ familiarizado.
+Contudo, você pode descobir que projetos que melhor combinam com as funcionalidades desejadas usam tecnologia que você não está familiarizado.
 
 
 ## O que vem depois
 
-Depois de escolher um projeto usando critÃ©rio baseado em tecnologia, vocÃª provavelmente deveria [Fazer uma instalaÃ§Ã£o Simulada](link://involvement/DoAMockInstallation) pra reafirmar sua certeza de que a tecnologia estÃ¡ sob controle.
+Depois de escolher um projeto usando critério baseado em tecnologia, você provavelmente deveria [Fazer uma instalação Simulada](link://involvement/DoAMockInstallation) pra reafirmar sua certeza de que a tecnologia está sob controle.
